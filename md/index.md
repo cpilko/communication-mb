@@ -20,7 +20,7 @@
       - #9 - Communications careers.
    + Requirements to do at a troop meeting or campout.
       - #6 - Teach a skill - At troop meetings.
-      - #8 - Plan and act as master of ceremony for a troop [campfire](http://www.scouting.org/filestore/pdf/33696.pdf), [court of honor](http://www.scouting.org/filestore/pdf/Ceremonies.pdf), [Scouts' Own Service](http://www.scouting.org/filestore/pdf/Interfaithservice.pdf).
+      - #8 - Plan and act as master of ceremony for a troop [campfire](pdf/campfire_planner.pdf), [court of honor](pdf/ceremonies.pdf), [Scouts' Own Service](pdf/interfaithservice.pdf).
    + Requirements we'll do together in class:
       - #2 - 4/27 session
           + Option 1: 2b - Sell 10 Camp Cards & discuss your pitch.
