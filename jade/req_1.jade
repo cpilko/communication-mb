@@ -3,9 +3,9 @@ html
   head
     title Requirement 1 Resources - Communications MB 2016
     link(rel='stylesheet', href='http://yui.yahooapis.com/pure/0.6.0/pure-min.css')
-    style
-      include style.css
+    link(rel='stylesheet', href="css/style.css")
   body
     article#req1
-      include:markdown-it req_1.md
-    include foot.jade
+      include:markdown-it ../md/req_1.md
+    footer
+      include foot.jade

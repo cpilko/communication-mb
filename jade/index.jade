@@ -3,9 +3,9 @@ html
   head
     title Communications MB 2016 Syllabus
     link(rel='stylesheet', href='http://yui.yahooapis.com/pure/0.6.0/pure-min.css')
-    style
-      include style.css
+    link(rel='stylesheet', href="css/style.css")
   body
     article#index
-      img(src='Communication.jpg').comm_img
-      include:markdown-it index.md
+      img(src='img/Communication.jpg').comm_img
+    footer
+      include:markdown-it ../md/index.md
