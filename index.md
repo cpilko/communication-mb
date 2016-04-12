@@ -1,5 +1,6 @@
-#Communications Merit Badge
-##Spring 2016 Syllabus
+# Communications Merit Badge
+
+## Spring 2016 Syllabus
 
    + Introductions & Overview
       - How to reach me:
