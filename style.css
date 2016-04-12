@@ -1,0 +1,30 @@
+body {}
+
+article {
+  margin: 30px;
+}
+
+#reqs strong {
+  font-weight:bold;
+  background-color: yellow;
+}
+
+ul > li {
+  margin-bottom: 10px;
+}
+
+ol > li {
+  margin-bottom: 10px;
+}
+
+article > ol {
+  list-style-type: decimal;
+}
+
+article > ol > li > ol {
+  list-style-type: lower-alpha;
+}
+
+article > ol > li > ol > li > ol {
+  list-style-type: lower-roman;
+}

@@ -1,4 +1,4 @@
-# Requirement #7 Resources:
+# Requirement \#7 Resources:
 
   1. Write to the editor of a magazine or your local newspaper to express your opinion or share information on any subject you choose. Send your message by fax, email or regular mail.
   2. Create a Website or Blog of special interest to you. Include three articles or entries and one photograph or illustration, and one link to another site that would be helpful to someone who visits your page. *It is not necessary to post your site to the Internet, but if you decide to do so, you must first share it with your parents and counselor and get their permission.*
