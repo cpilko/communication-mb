@@ -1,4 +1,4 @@
-# Communications Merit Badge
+# Communication Merit Badge
 
 ## Spring 2016 Syllabus
 
